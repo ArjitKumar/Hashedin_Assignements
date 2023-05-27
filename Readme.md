@@ -1,1 +1,1 @@
-This is the master branch for the assignements
+This is the git branch for the assignements
